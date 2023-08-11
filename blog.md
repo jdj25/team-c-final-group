@@ -1,20 +1,20 @@
 # **BLOG**
 <br><br>
-## [We're Open! Come on in](https://njit-wis.github.io/coffee_site/blog/aug1)
+## [Grand Opening!](https://njit-wis.github.io/coffee_site/blog/aug1)
 
-August 1, 2023
+September 25, 2023
 <br><br><br>
 
-## [Coming Soon - what to expect](https://njit-wis.github.io/coffee_site/blog/jul15)
+## [Meet The Chefs](https://njit-wis.github.io/coffee_site/blog/jul15)
 
-July 15, 2023
+October 12, 2023
 <br><br><br>
 
-## [Only the freshest beans](https://njit-wis.github.io/coffee_site/blog/jul1)
+## [The Best Italian Food in NJ](https://njit-wis.github.io/coffee_site/blog/jul1)
 
-July 1, 2023
+October 24, 2023
 <br><br><br>
 <br>
-Interested in us? Sign up for our newsletter!
+Sign up for our newsletter!
 
 [Sign Up](#)
