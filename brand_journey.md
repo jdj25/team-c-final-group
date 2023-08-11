@@ -9,7 +9,6 @@
 - Sage Green (#3f5732)
 - Mocha (#3c280d)
 - Cream (#e8d1a7)
-![brand guide image](/images/brandguide.PNG)
 
 ## Brand Vision
 - Personal, welcoming imagery that helps customers feel the comfort that is felt when arriving home to a homemade meal with family after a long day
@@ -41,7 +40,7 @@
 
 ## Buyer Persona
 
-![Timmy](images/timmy.jpg)
+![Timmy](timmy.jpg)
 
 - **Name**: Timmy Jimmy
 - **Age**: 20-25
