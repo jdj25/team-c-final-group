@@ -17,4 +17,4 @@ June 24, 2022
 <br>
 Sign up for our newsletter!
 
-[Sign Up](#)
+[Sign Up](https://jdj25.github.io/team-c-final-group/subscribe)
