@@ -1,16 +1,16 @@
 # **BLOG**
 <br><br>
-## [Grand Opening!](https://njit-wis.github.io/coffee_site/blog/aug1)
+## [Grand Opening!](https://jdj25.github.io/team-c-final-group/blog/blog-post-1)
 
 May 25, 2022
 <br><br><br>
 
-## [Meet The Chefs](https://njit-wis.github.io/coffee_site/blog/jul15)
+## [Meet The Chefs](https://jdj25.github.io/team-c-final-group/blog/blog-post-2)
 
 June 12, 2022
 <br><br><br>
 
-## [The Best Italian Food in NJ](https://njit-wis.github.io/coffee_site/blog/jul1)
+## [The Best Italian Food in NJ](https://jdj25.github.io/team-c-final-group/blog/blog-post-3)
 
 June 24, 2022
 <br><br><br>
