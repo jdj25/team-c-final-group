@@ -5,10 +5,10 @@
 **Our Team Consists Of:**
 <br><br>
 
-Ablert Choi [ucid here](#)
+Albert Choi [ac922](#)
 <br>
 <br>
-Christian Culp [ucid here](#)
+Christian Culp [cc275](#)
 <br><br>
 Jillian Andrea Juat [jdj25](#)
 
