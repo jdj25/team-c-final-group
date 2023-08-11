@@ -11,7 +11,6 @@
             <div class="response" id="mce-success-response" style="display: none;"></div>
         </div>
     <div aria-hidden="true" style="position: absolute; left: -5000px;">
-        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
         <input type="text" name="b_16719155fcf2434929e1dccdf_fff2b035ec" tabindex="-1" value="">
     </div>
         <div class="optionalParent">
