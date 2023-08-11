@@ -5,7 +5,7 @@
 ## Font
 - Nunito Sans
 ## Colors
-![sage](sage green.png)![mocha.png](mocha.png)![cream](cream.png)
+![sage](sage.png)![mocha.png](mocha.png)![cream](cream.png)
 - Sage Green (#3f5732)
 - Mocha (#3c280d)
 - Cream (#e8d1a7)
